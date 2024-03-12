@@ -18,7 +18,7 @@ This is the complete and functional Fiuu iOS payment module that is ready to be 
 
 ## Installation Guidance
 
-[Installation](https://github.com/FiuuPayment/rms-mobile-xdk-cocoapods/wiki/Installation-Guidance)
+[Installation](https://github.com/FiuuPayment/Mobile-XDK-Fiuu_Cocoapods_Framework/wiki/Installation-Guide)
 
 
 ## Resources
