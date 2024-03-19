@@ -7,7 +7,7 @@
 //
 
 #import "RMSViewController.h"
-#import <rms-mobile-xdk-cocoapods/MOLPayLib.h>
+#import <fiuu-mobile-xdk-cocoapods/MOLPayLib.h>
 
 @interface RMSViewController () <MOLPayLibDelegate>
 {
@@ -36,11 +36,11 @@
     
     // Setup payment details
     NSDictionary * paymentRequestDict = @{
-        @"mp_username": @"",
-        @"mp_password": @"",
-        @"mp_merchant_ID": @"",
-        @"mp_app_name": @"",
-        @"mp_verification_key": @"",
+        @"mp_username": @"RMSxdk_2022",
+        @"mp_password": @"RMSpwd@2022",
+        @"mp_merchant_ID": @"rmsxdk_mobile_Dev",
+        @"mp_app_name": @"mobile",
+        @"mp_verification_key": @"ee738b541eff7b6b495e44771f71c0ec",
         @"mp_amount": @"1.10",
         @"mp_order_ID": @"abc", // Mandatory
         @"mp_currency": @"MYR", // Mandatory
