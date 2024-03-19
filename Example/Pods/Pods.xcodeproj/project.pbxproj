@@ -28,49 +28,50 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0624A4E65E40BE3FE7737CC5690508CA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0B6A68B4A47257ECEA55D395B36EF8EC;
-			remoteInfo = "fiuu-mobile-xdk-cocoapods";
-		};
-		FBB9318E004E4DF07284A61E78017D86 /* PBXContainerItemProxy */ = {
+		57D331269080E919446A1FF1FC60A0ED /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 39BB30E94B3A044DE7BAF71CBD5C5567;
 			remoteInfo = "Pods-fiuu-mobile-xdk-cocoapods_Example";
 		};
+		730A5959D32C8849745FB45E24CD5B1A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0B6A68B4A47257ECEA55D395B36EF8EC;
+			remoteInfo = "fiuu-mobile-xdk-cocoapods";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		093478344F2E2C6196D577F3DD3C1619 /* MOLPayLib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MOLPayLib.h; path = "fiuu-mobile-xdk-cocoapods/Classes/MOLPayLib.h"; sourceTree = "<group>"; };
 		1BC5442F6AA65AE987822CC625D18330 /* Pods-fiuu-mobile-xdk-cocoapods_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests-Info.plist"; sourceTree = "<group>"; };
 		2CF8B79405DE59AFF74A208238F366BF /* Pods-fiuu-mobile-xdk-cocoapods_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests.modulemap"; sourceTree = "<group>"; };
 		2ED26891939A720AEBA9C46D27EF258C /* Pods-fiuu-mobile-xdk-cocoapods_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests-dummy.m"; sourceTree = "<group>"; };
 		2FCF470FC6FBFADFAC1619937F0A8EDF /* Pods-fiuu-mobile-xdk-cocoapods_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-fiuu-mobile-xdk-cocoapods_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		390737A18693AA740A5F87A940623172 /* MOLPayXDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MOLPayXDK.framework; sourceTree = "<group>"; };
+		39521DEB4CDB5FC9A61E7236D7305F20 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "fiuu-mobile-xdk-cocoapods.release.xcconfig"; sourceTree = "<group>"; };
 		3BB9B02D82B5D921ECCA1F4F3D0387CB /* Pods-fiuu-mobile-xdk-cocoapods_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-fiuu-mobile-xdk-cocoapods_Example-umbrella.h"; sourceTree = "<group>"; };
 		53D5EE90BB5F773110100223BA402412 /* Pods-fiuu-mobile-xdk-cocoapods_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-fiuu-mobile-xdk-cocoapods_Example.release.xcconfig"; sourceTree = "<group>"; };
 		62D26E7521F09B606BA0C95F4EBF92A7 /* Pods-fiuu-mobile-xdk-cocoapods_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests-umbrella.h"; sourceTree = "<group>"; };
 		652E402AD55C95D7807BDA58B9FDBCBA /* Pods-fiuu-mobile-xdk-cocoapods_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-fiuu-mobile-xdk-cocoapods_Example-Info.plist"; sourceTree = "<group>"; };
 		65A2E7A89012922CB8821DE4569D2625 /* Pods-fiuu-mobile-xdk-cocoapods_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		65F1D48535DC95F5B9945F6F35B860E6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		83BA3B3F5EE3E7870955F408539184A0 /* MOLPayLib.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MOLPayLib.h; path = "fiuu-mobile-xdk-cocoapods/Classes/MOLPayLib.h"; sourceTree = "<group>"; };
 		8BBF2DAECA361263AF52921041877D90 /* Pods-fiuu-mobile-xdk-cocoapods_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-fiuu-mobile-xdk-cocoapods_Tests"; path = Pods_fiuu_mobile_xdk_cocoapods_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		948C9771A31854A7D5E1083EC37DB640 /* Pods-fiuu-mobile-xdk-cocoapods_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-fiuu-mobile-xdk-cocoapods_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A31E5880BB9D790E7CB9DF46DC180944 /* Pods-fiuu-mobile-xdk-cocoapods_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-fiuu-mobile-xdk-cocoapods_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A51E172334096DD828B9395CDA947AAE /* Pods-fiuu-mobile-xdk-cocoapods_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B3266F4598AE188AA00DDDFDBF818CA2 /* fiuu-mobile-xdk-cocoapods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "fiuu-mobile-xdk-cocoapods.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A662BB39E9D93811BB25F540534BAA67 /* fiuu-mobile-xdk-cocoapods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "fiuu-mobile-xdk-cocoapods.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C043727E79A30DDA60E960791E474C33 /* Pods-fiuu-mobile-xdk-cocoapods_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-fiuu-mobile-xdk-cocoapods_Example-dummy.m"; sourceTree = "<group>"; };
 		C59E2F2E2CF76248D594582DFAD2C648 /* Pods-fiuu-mobile-xdk-cocoapods_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-fiuu-mobile-xdk-cocoapods_Example.modulemap"; sourceTree = "<group>"; };
 		D2900324E86CE463EAB330DC5E19FF70 /* Pods-fiuu-mobile-xdk-cocoapods_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D3E1C12B7AFFF76A1149A20DC3F0BD47 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "fiuu-mobile-xdk-cocoapods.release.xcconfig"; sourceTree = "<group>"; };
+		D64E707F4EB307D626D44965CF411051 /* MOLPayXDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MOLPayXDK.framework; sourceTree = "<group>"; };
+		DDA09E0EEAAA62A62E6C72B1F385E0C4 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "fiuu-mobile-xdk-cocoapods.debug.xcconfig"; sourceTree = "<group>"; };
+		E8DF3CBE41E444B595A6AB3FB15D5CBF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		EA57CB750657A947ED2D7ABCCA04D1E5 /* Pods-fiuu-mobile-xdk-cocoapods_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-fiuu-mobile-xdk-cocoapods_Example"; path = Pods_fiuu_mobile_xdk_cocoapods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB185236AA744CB349036484D685C911 /* Pods-fiuu-mobile-xdk-cocoapods_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-fiuu-mobile-xdk-cocoapods_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F33BC87CA7D1C7ED4FB8246B6C593F49 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		FD901BF6D8DC87B0F67DE99750657572 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "fiuu-mobile-xdk-cocoapods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,12 +110,34 @@
 			path = "Target Support Files/Pods-fiuu-mobile-xdk-cocoapods_Example";
 			sourceTree = "<group>";
 		};
-		29F0B774329B2450EB347665E8DC2FE5 /* Frameworks */ = {
+		14EBB679D794AC47084F30870CA94967 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				390737A18693AA740A5F87A940623172 /* MOLPayXDK.framework */,
+				DDA09E0EEAAA62A62E6C72B1F385E0C4 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */,
+				39521DEB4CDB5FC9A61E7236D7305F20 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/fiuu-mobile-xdk-cocoapods";
+			sourceTree = "<group>";
+		};
+		1FF2BF794F5FEB3205A236567771E12A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D64E707F4EB307D626D44965CF411051 /* MOLPayXDK.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2F271CA783DC87C5EFA6E4494B7DB02F /* fiuu-mobile-xdk-cocoapods */ = {
+			isa = PBXGroup;
+			children = (
+				093478344F2E2C6196D577F3DD3C1619 /* MOLPayLib.h */,
+				1FF2BF794F5FEB3205A236567771E12A /* Frameworks */,
+				97054DA8D1A7C404523E7B752E1D1139 /* Pod */,
+				14EBB679D794AC47084F30870CA94967 /* Support Files */,
+			);
+			name = "fiuu-mobile-xdk-cocoapods";
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		387022681C4710D9231F658E607BFF87 /* Targets Support Files */ = {
@@ -142,15 +165,6 @@
 			path = "Target Support Files/Pods-fiuu-mobile-xdk-cocoapods_Tests";
 			sourceTree = "<group>";
 		};
-		5562FDF01AD043D428ED2497F7C47A6C /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				B3266F4598AE188AA00DDDFDBF818CA2 /* fiuu-mobile-xdk-cocoapods.podspec */,
-				F33BC87CA7D1C7ED4FB8246B6C593F49 /* LICENSE */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -159,24 +173,22 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		97054DA8D1A7C404523E7B752E1D1139 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				A662BB39E9D93811BB25F540534BAA67 /* fiuu-mobile-xdk-cocoapods.podspec */,
+				65F1D48535DC95F5B9945F6F35B860E6 /* LICENSE */,
+				E8DF3CBE41E444B595A6AB3FB15D5CBF /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		9842B89CF8FDBD53F37833D868F41DA7 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C3B1ACF5DCEF0BAF79C47A2CB4108E91 /* fiuu-mobile-xdk-cocoapods */,
+				2F271CA783DC87C5EFA6E4494B7DB02F /* fiuu-mobile-xdk-cocoapods */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		C3B1ACF5DCEF0BAF79C47A2CB4108E91 /* fiuu-mobile-xdk-cocoapods */ = {
-			isa = PBXGroup;
-			children = (
-				83BA3B3F5EE3E7870955F408539184A0 /* MOLPayLib.h */,
-				29F0B774329B2450EB347665E8DC2FE5 /* Frameworks */,
-				5562FDF01AD043D428ED2497F7C47A6C /* Pod */,
-				ECB84F6EE95927501AE8F8F6DE764B70 /* Support Files */,
-			);
-			name = "fiuu-mobile-xdk-cocoapods";
-			path = ../..;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -205,16 +217,6 @@
 				8BBF2DAECA361263AF52921041877D90 /* Pods-fiuu-mobile-xdk-cocoapods_Tests */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		ECB84F6EE95927501AE8F8F6DE764B70 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				FD901BF6D8DC87B0F67DE99750657572 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */,
-				D3E1C12B7AFFF76A1149A20DC3F0BD47 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/fiuu-mobile-xdk-cocoapods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,7 +253,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				4EB2BEC0E33EDA000B12C6792DC625AE /* PBXTargetDependency */,
+				419D20714ABB44C6637487AC3F1F01E2 /* PBXTargetDependency */,
 			);
 			name = "Pods-fiuu-mobile-xdk-cocoapods_Example";
 			productName = Pods_fiuu_mobile_xdk_cocoapods_Example;
@@ -270,7 +272,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				2A291175ED2D5492E026EE2C0775DB50 /* PBXTargetDependency */,
+				FF9415DBFB5496631D4894F751045306 /* PBXTargetDependency */,
 			);
 			name = "Pods-fiuu-mobile-xdk-cocoapods_Tests";
 			productName = Pods_fiuu_mobile_xdk_cocoapods_Tests;
@@ -343,17 +345,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		2A291175ED2D5492E026EE2C0775DB50 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-fiuu-mobile-xdk-cocoapods_Example";
-			target = 39BB30E94B3A044DE7BAF71CBD5C5567 /* Pods-fiuu-mobile-xdk-cocoapods_Example */;
-			targetProxy = FBB9318E004E4DF07284A61E78017D86 /* PBXContainerItemProxy */;
-		};
-		4EB2BEC0E33EDA000B12C6792DC625AE /* PBXTargetDependency */ = {
+		419D20714ABB44C6637487AC3F1F01E2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "fiuu-mobile-xdk-cocoapods";
 			target = 0B6A68B4A47257ECEA55D395B36EF8EC /* fiuu-mobile-xdk-cocoapods */;
-			targetProxy = 0624A4E65E40BE3FE7737CC5690508CA /* PBXContainerItemProxy */;
+			targetProxy = 730A5959D32C8849745FB45E24CD5B1A /* PBXContainerItemProxy */;
+		};
+		FF9415DBFB5496631D4894F751045306 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-fiuu-mobile-xdk-cocoapods_Example";
+			target = 39BB30E94B3A044DE7BAF71CBD5C5567 /* Pods-fiuu-mobile-xdk-cocoapods_Example */;
+			targetProxy = 57D331269080E919446A1FF1FC60A0ED /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -394,7 +396,7 @@
 		};
 		28266BA26C44B51BB88999611FEF45AB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D3E1C12B7AFFF76A1149A20DC3F0BD47 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */;
+			baseConfigurationReference = 39521DEB4CDB5FC9A61E7236D7305F20 /* fiuu-mobile-xdk-cocoapods.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -573,7 +575,7 @@
 		};
 		95F525EA773D181DEB0323ECFA03B841 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FD901BF6D8DC87B0F67DE99750657572 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */;
+			baseConfigurationReference = DDA09E0EEAAA62A62E6C72B1F385E0C4 /* fiuu-mobile-xdk-cocoapods.debug.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;

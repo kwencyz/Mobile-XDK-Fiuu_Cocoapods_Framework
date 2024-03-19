@@ -43,7 +43,7 @@
 		10E02FD2CE65105507839C9A /* Pods_fiuu_mobile_xdk_cocoapods_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_fiuu_mobile_xdk_cocoapods_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3704036E7046705B4697C892 /* Pods-fiuu-mobile-xdk-cocoapods_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fiuu-mobile-xdk-cocoapods_Example.release.xcconfig"; path = "Target Support Files/Pods-fiuu-mobile-xdk-cocoapods_Example/Pods-fiuu-mobile-xdk-cocoapods_Example.release.xcconfig"; sourceTree = "<group>"; };
 		52239A0C4D0C18162A31312A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		562F7F762B354EF800552631 /* rms-mobile-xdk-cocoapods_Example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "rms-mobile-xdk-cocoapods_Example.entitlements"; sourceTree = "<group>"; };
+		562F7F762B354EF800552631 /* fiuu-mobile-xdk-cocoapods_Example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "fiuu-mobile-xdk-cocoapods_Example.entitlements"; sourceTree = "<group>"; };
 		5694E9992BA9DF53008807DA /* Pods_rms_mobile_xdk_cocoapods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_rms_mobile_xdk_cocoapods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5694E99B2BA9DFC4008807DA /* Pods_rms_mobile_xdk_cocoapods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_rms_mobile_xdk_cocoapods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5694E99F2BA9E9CD008807DA /* Pods_fiuu_mobile_xdk_cocoapods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_fiuu_mobile_xdk_cocoapods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,7 +108,7 @@
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
-				562F7F762B354EF800552631 /* rms-mobile-xdk-cocoapods_Example.entitlements */,
+				562F7F762B354EF800552631 /* fiuu-mobile-xdk-cocoapods_Example.entitlements */,
 				60FF7A9C1954A5C5007DD14C /* Podspec Metadata */,
 				6003F593195388D20070C39A /* Example for rms-mobile-xdk-cocoapods */,
 				6003F5B5195388D20070C39A /* Tests */,
@@ -508,7 +508,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "rms-mobile-xdk-cocoapods_Example.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "fiuu-mobile-xdk-cocoapods_Example.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 66L78PU46C;
@@ -536,7 +536,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = "rms-mobile-xdk-cocoapods_Example.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "fiuu-mobile-xdk-cocoapods_Example.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 66L78PU46C;
