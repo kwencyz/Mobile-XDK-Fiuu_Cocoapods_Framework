@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_rms_mobile_xdk_cocoapods_TestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_rms_mobile_xdk_cocoapods_TestsVersionString[];
+FOUNDATION_EXPORT double Pods_fiuu_mobile_xdk_cocoapods_ExampleVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_fiuu_mobile_xdk_cocoapods_ExampleVersionString[];
 

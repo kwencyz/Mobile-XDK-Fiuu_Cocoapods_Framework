@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "rms-mobile-xdk-cocoapods_Example.app"
-               BlueprintName = "rms-mobile-xdk-cocoapods_Example"
-               ReferencedContainer = "container:rms-mobile-xdk-cocoapods.xcodeproj">
+               BuildableName = "fiuu-mobile-xdk-cocoapods_Example.app"
+               BlueprintName = "fiuu-mobile-xdk-cocoapods_Example"
+               ReferencedContainer = "container:fiuu-mobile-xdk-cocoapods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -27,29 +27,27 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6003F589195388D20070C39A"
+            BuildableName = "fiuu-mobile-xdk-cocoapods_Example.app"
+            BlueprintName = "fiuu-mobile-xdk-cocoapods_Example"
+            ReferencedContainer = "container:fiuu-mobile-xdk-cocoapods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "rms-mobile-xdk-cocoapods_Tests.xctest"
-               BlueprintName = "rms-mobile-xdk-cocoapods_Tests"
-               ReferencedContainer = "container:rms-mobile-xdk-cocoapods.xcodeproj">
+               BuildableName = "fiuu-mobile-xdk-cocoapods_Tests.xctest"
+               BlueprintName = "fiuu-mobile-xdk-cocoapods_Tests"
+               ReferencedContainer = "container:fiuu-mobile-xdk-cocoapods.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "rms-mobile-xdk-cocoapods_Example.app"
-            BlueprintName = "rms-mobile-xdk-cocoapods_Example"
-            ReferencedContainer = "container:rms-mobile-xdk-cocoapods.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -66,13 +64,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "rms-mobile-xdk-cocoapods_Example.app"
-            BlueprintName = "rms-mobile-xdk-cocoapods_Example"
-            ReferencedContainer = "container:rms-mobile-xdk-cocoapods.xcodeproj">
+            BuildableName = "fiuu-mobile-xdk-cocoapods_Example.app"
+            BlueprintName = "fiuu-mobile-xdk-cocoapods_Example"
+            ReferencedContainer = "container:fiuu-mobile-xdk-cocoapods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -85,9 +81,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "rms-mobile-xdk-cocoapods_Example.app"
-            BlueprintName = "rms-mobile-xdk-cocoapods_Example"
-            ReferencedContainer = "container:rms-mobile-xdk-cocoapods.xcodeproj">
+            BuildableName = "fiuu-mobile-xdk-cocoapods_Example.app"
+            BlueprintName = "fiuu-mobile-xdk-cocoapods_Example"
+            ReferencedContainer = "container:fiuu-mobile-xdk-cocoapods.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:rms-mobile-xdk-cocoapods.xcodeproj">
+      location = "group:fiuu-mobile-xdk-cocoapods.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
