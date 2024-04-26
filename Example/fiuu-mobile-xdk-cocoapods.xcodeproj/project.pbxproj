@@ -512,7 +512,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 66L78PU46C;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
+				EXCLUDED_ARCHS = arm64;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "fiuu-mobile-xdk-cocoapods/fiuu-mobile-xdk-cocoapods-Prefix.pch";
 				INFOPLIST_FILE = "fiuu-mobile-xdk-cocoapods/fiuu-mobile-xdk-cocoapods-Info.plist";
