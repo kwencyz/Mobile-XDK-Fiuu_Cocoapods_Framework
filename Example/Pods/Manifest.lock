@@ -1,5 +1,5 @@
 PODS:
-  - fiuu-mobile-xdk-cocoapods (3.33.8rc-3)
+  - fiuu-mobile-xdk-cocoapods (3.33.11)
 
 DEPENDENCIES:
   - fiuu-mobile-xdk-cocoapods (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  fiuu-mobile-xdk-cocoapods: 7668fdecf21204ab0b1fe15f8a52c895b52d3b55
+  fiuu-mobile-xdk-cocoapods: 2e86d5cf7b4871ed1301cf8c005b5ddd178ba39b
 
-PODFILE CHECKSUM: a81f955ed9bed7bb054a4a1ec99c629119b088f8
+PODFILE CHECKSUM: 7b2f8a84f0d70a9bd8f43da1b19932ca6c47d812
 
 COCOAPODS: 1.14.3
