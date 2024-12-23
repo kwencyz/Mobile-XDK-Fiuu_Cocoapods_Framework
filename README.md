@@ -14,7 +14,7 @@ This is the complete and functional Fiuu iOS payment module that is ready to be 
 
     - Xcode version: 13 ++
 
-    - Minimum target version: iOS 11
+    - Minimum target version: iOS 13
 
 ## Installation Guidance
 
